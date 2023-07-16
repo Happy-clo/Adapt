@@ -32,4 +32,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
          name: Adapt
-         path: build/
+         path: build/libs/*.jar
