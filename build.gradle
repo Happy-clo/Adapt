@@ -123,7 +123,7 @@ dependencies {
     implementation 'org.bukkit:craftbukkit:1.20.1-R0.1-SNAPSHOT' //[NMS]
 
     // Cancer
-    implementation 'art.arcane:Amulet:22.7.18'
+    implementation 'art.arcane:Amulet:22.9.5'
     implementation 'art.arcane:Fukkit:22.7.5'
     implementation 'art.arcane:Curse:23.5.2'
     implementation "io.papermc:paperlib:1.0.7"
