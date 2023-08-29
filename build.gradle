@@ -141,7 +141,7 @@ dependencies {
     implementation 'com.massivecraft:Factions:1.6.9.5-U0.6.21'
     implementation "com.github.angeschossen:ChestProtectAPI:3.9.1"
     implementation "com.github.TechFortress:GriefPrevention:16.18.1"
-    implementation 'xyz.xenondevs:particle:1.8.1'
+    implementation 'xyz.xenondevs:particle:1.8.4'
     compileOnly 'com.griefdefender:api:2.1.0-SNAPSHOT'
 
     // Dynamically Loaded
