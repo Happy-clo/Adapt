@@ -131,7 +131,7 @@ dependencies {
     implementation 'art.arcane:Amulet:22.7.18'
     implementation 'art.arcane:Fukkit:22.7.5'
     implementation 'art.arcane:Curse:23.5.2'
-    implementation "io.papermc:paperlib:1.0.7"
+    implementation "io.papermc:paperlib:1.0.8"
     annotationProcessor 'systems.manifold:manifold-ext:' + manifoldVersion
     testAnnotationProcessor 'systems.manifold:manifold-ext:' + manifoldVersion
     implementation 'systems.manifold:manifold-rt:' + manifoldVersion
