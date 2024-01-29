@@ -139,7 +139,7 @@ dependencies {
     //Random Api's
     implementation 'com.github.DeadSilenceIV:AdvancedChestsAPI:2.9-BETA'
     implementation 'com.sk89q.worldguard:worldguard-bukkit:7.0.8'
-    implementation "com.github.FrancoBM12:API-MagicCosmetics:2.2.2"
+    implementation "com.github.FrancoBM12:API-MagicCosmetics:2.2.6"
     implementation 'me.clip:placeholderapi:2.11.2'
     implementation 'com.github.LoneDev6:api-itemsadder:3.2.5'
     implementation 'io.th0rgal:oraxen:1.94.0'
