@@ -137,7 +137,7 @@ dependencies {
     implementation 'systems.manifold:manifold-rt:' + manifoldVersion
 
     //Random Api's
-    implementation 'com.github.DeadSilenceIV:AdvancedChestsAPI:2.9-BETA'
+    implementation 'com.github.DeadSilenceIV:AdvancedChestsAPI:3.2-BETA'
     implementation 'com.sk89q.worldguard:worldguard-bukkit:7.0.8'
     implementation "com.github.FrancoBM12:API-MagicCosmetics:2.2.2"
     implementation 'me.clip:placeholderapi:2.11.2'
